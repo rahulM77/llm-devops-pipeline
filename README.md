@@ -1,7 +1,6 @@
 # 🚀 LLMOps RAG Chatbot Pipeline
 
-> **Capstone Project 5 — Unit V: DevOps for AI**  
-> Team size: 2–3 students | Stack: Ollama · Qdrant · FastAPI · Docker · GitHub Actions · Grafana
+| Stack: Ollama · Qdrant · FastAPI · Docker · GitHub Actions · Grafana
 
 ---
 
